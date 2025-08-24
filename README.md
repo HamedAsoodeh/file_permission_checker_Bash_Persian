@@ -58,7 +58,7 @@
 
 # دانلود و اجرا
 ```bash
-wget https://github.com/HamedAsoodeh/file-permission-checker/raw/main/file_permission_checker.sh
+wget https://github.com/HamedAsoodeh/file_permission_checker_Bash_Persian/raw/main/file_permission_checker.sh
 chmod +x file_permission_checker.sh
 ./file_permission_checker.sh
 
@@ -111,4 +111,4 @@ hamedasoodeh@gmail.com
 
 🔗 مخزن اصلی:
 
-https://github.com/HamedAsoodeh/file-permission-checker
+https://github.com/HamedAsoodeh/file_permission_checker_Bash_Persian
